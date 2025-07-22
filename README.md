@@ -85,7 +85,7 @@ This project analyzes the evolution of housing prices in Portugal, examining bot
 
 ## Links
 - **Kaggle Dataset**: [Portugal Housing Affordability and Market Factors](https://www.kaggle.com/marquesigor/portugal-housing-affordability-and-market-factors)
-- **Kaggle Project**: [Portuguese Housing Market (Capstone Project)]https://www.kaggle.com/code/marquesigor/portuguese-housing-market-capstone-project
+- **Kaggle Project**: [Portuguese Housing Market (Capstone Project)](https://www.kaggle.com/code/marquesigor/portuguese-housing-market-capstone-project)
 - **Data Sources**: 
   - [Idealista Reports](https://www.idealista.pt/media/relatorios-preco-habitacao/)
   - [INE Housing Statistics](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_destaques&DESTAQUESdest_boui=706274632&DESTAQUESmodo=2)
